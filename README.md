@@ -9,13 +9,15 @@
   
 </p>
 
----
+
 <div align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiagofrns&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+<br></br>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tiagofrns&theme=dark" alt="tiagofrns" /></p>
 
 <!--
-**tiagofrns/tiagofrns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
