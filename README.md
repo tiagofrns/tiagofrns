@@ -1,6 +1,6 @@
 <h3 align="center">
 
-![]([https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&textBg=false&section=header))
+![](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&textBg=false&section=header)
 
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello!+Welcome+to+my+github+page;I+am+Tiago+Fernandes" alt="Typing SVG" /></a>
