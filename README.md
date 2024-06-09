@@ -24,7 +24,7 @@
 💬 Ask me about for any help
 
 📫 How to reach me:  
-  Mail me at "tiago.a.fernandes.2005@gail.com"
+  Mail me at "tiago.a.fernandes.2005@gmail.com"
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiagofrns&show_icons=true&theme=dark&locale=en&layout=compact" alt="tiagofrns" /></p>
