@@ -15,7 +15,7 @@
 # 💫About Me :
 🔭 Progressing in "Engenharia de Computadores e Informática" in Universidade de Aveiro.
   
-🌱 I’m currently learning : Python, Java, VHDL, HTML, CSS, JAVASCRIPT, LATEX, ...
+🌱 I’m currently learning : Python, Java, VHDL, HTML, CSS, JAVASCRIPT, LATEX, SQL, C, C#, C++, ...
 
 👯 I’m open to collaborate with anyone
 
@@ -25,9 +25,6 @@
   Mail me at "tiago.a.fernandes.2005@gmail.com"
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiagofrns&show_icons=true&theme=dark&locale=en&layout=compact" alt="tiagofrns" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiagofrns&theme=dark&layout=compact" alt="tiagofrns" /></p>
 
 <!--
 
