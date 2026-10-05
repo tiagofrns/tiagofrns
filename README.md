@@ -13,17 +13,13 @@
 <div align="center">
 
 # 💫About Me :
-🔭 Progressing in "Engenharia de Computadores e Informática" in Universidade de Aveiro.
-  
-🌱 I’m currently learning : Python, Java, VHDL, HTML, CSS, JAVASCRIPT, LATEX, SQL, C, C#, C++, ...
+🎓 Bachelor's degree in Computer Engineering and Informatics from the University of Aveiro.
 
-👯 I’m open to collaborate with anyone
+🔐 Master's student in Cybersecurity.
 
-💬 Ask me about for any help
+🔬 Researcher.
 
-📫 How to reach me:  
-  Mail me at "tiago.a.fernandes.2005@gmail.com"
-
+🤝 Open to collaboration on interesting projects.
 
 
 <!--
