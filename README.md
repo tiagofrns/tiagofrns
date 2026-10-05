@@ -12,7 +12,7 @@
 
 <div align="center">
 
-# 💫About Me :
+# About Me :
 🎓 Bachelor's degree in Computer Engineering and Informatics from the University of Aveiro.
 
 🔐 Master's student in Cybersecurity.
